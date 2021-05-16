@@ -8,3 +8,6 @@ __Note__: This app does not yet save the contacts created in any database, once 
 
 ## Description
 
+- ### Launch View
+
+![Alt](/ContactListApp_demo/contactlistapp_lanch_view.png "Launcher View")
